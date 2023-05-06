@@ -3,7 +3,7 @@ package mgo
 import (
 	"context"
 	"go.mongodb.org/mongo-driver/mongo"
-	"service/services/models"
+	"services/services/models"
 )
 
 type UserRepository interface {
